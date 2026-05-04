@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        //ko cache 17s
+        //ko cache 21s
         System.out.println("Hello and welcome!");
         Student student = new Student("John Doe", 3.5);
         System.out.println("Student Name: " + student.name);
